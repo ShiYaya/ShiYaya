@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShiYaya
+- 👀 I’m interested in Multi-Modality Learning (MML), including multi-modality Understanding, Retrieval, and Generation.
+- 🌱 
+- 💞️ 
+- 📫 
